@@ -1,0 +1,10 @@
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.deps.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\bin\Debug\netcoreapp3.1\Tasks.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfoInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.AssemblyInfo.cs
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.sourcelink.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\DataStructures\Tasks\obj\Debug\netcoreapp3.1\Tasks.pdb
