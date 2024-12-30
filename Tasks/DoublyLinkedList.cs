@@ -11,7 +11,7 @@ namespace Tasks
     public class DoublyLinkedList<T> : IDoublyLinkedList<T>
     {
         public int Length { get; set; }
-        //public int Length => throw new NotImplementedException();
+
         LinkedList<T> linkedList = new LinkedList<T>();
         public void Add(T e)
         {

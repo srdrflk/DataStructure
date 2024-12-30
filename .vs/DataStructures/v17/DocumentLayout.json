@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\datastructures\\tasks\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|solutionrelative:tasks\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\tasks\\hybridflowprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|solutionrelative:tasks\\hybridflowprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60BB38D5-E2C3-4629-9FC5-6E87D0FCBA4E}|Tasks.Tests\\Tasks.Tests.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\tasks.tests\\doublylinkedlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60BB38D5-E2C3-4629-9FC5-6E87D0FCBA4E}|Tasks.Tests\\Tasks.Tests.csproj|solutionrelative:tasks.tests\\doublylinkedlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\datastructures\\tasks\\donotchange\\idoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|solutionrelative:tasks\\donotchange\\idoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\tasks\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|solutionrelative:tasks\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60BB38D5-E2C3-4629-9FC5-6E87D0FCBA4E}|Tasks.Tests\\Tasks.Tests.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\datastructures\\tasks.tests\\hybridflowprocessortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60BB38D5-E2C3-4629-9FC5-6E87D0FCBA4E}|Tasks.Tests\\Tasks.Tests.csproj|solutionrelative:tasks.tests\\hybridflowprocessortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\datastructures\\tasks\\hybridflowprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|solutionrelative:tasks\\hybridflowprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\tasks\\donotchange\\ihybridflowprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|solutionrelative:tasks\\donotchange\\ihybridflowprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\datastructures\\tasks\\donotchange\\ihybridflowprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|solutionrelative:tasks\\donotchange\\ihybridflowprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\tasks\\donotchange\\idoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B598CF-1CBB-4F1D-854A-40651C580A23}|Tasks\\Tasks.csproj|solutionrelative:tasks\\donotchange\\idoublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DoublyLinkedList.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\DoublyLinkedList.cs",
               "RelativeDocumentMoniker": "Tasks\\DoublyLinkedList.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\DoublyLinkedList.cs",
               "RelativeToolTip": "Tasks\\DoublyLinkedList.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAmwDsAAAAIAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T08:26:27.833Z",
               "IsPinned": true,
@@ -58,9 +58,37 @@
               "RelativeDocumentMoniker": "Tasks.Tests\\DoublyLinkedListTests.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks.Tests\\DoublyLinkedListTests.cs",
               "RelativeToolTip": "Tasks.Tests\\DoublyLinkedListTests.cs",
-              "ViewState": "AQIAAPAAAAAAAAAAAAAxwAkBAAAJAAAA",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAqwP0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T08:26:38.385Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HybridFlowProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\HybridFlowProcessor.cs",
+              "RelativeDocumentMoniker": "Tasks\\HybridFlowProcessor.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\HybridFlowProcessor.cs",
+              "RelativeToolTip": "Tasks\\HybridFlowProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:37:45.597Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HybridFlowProcessorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks.Tests\\HybridFlowProcessorTest.cs",
+              "RelativeDocumentMoniker": "Tasks.Tests\\HybridFlowProcessorTest.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks.Tests\\HybridFlowProcessorTest.cs",
+              "RelativeToolTip": "Tasks.Tests\\HybridFlowProcessorTest.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:38:06.068Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -94,33 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HybridFlowProcessorTest.cs",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks.Tests\\HybridFlowProcessorTest.cs",
-              "RelativeDocumentMoniker": "Tasks.Tests\\HybridFlowProcessorTest.cs",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks.Tests\\HybridFlowProcessorTest.cs",
-              "RelativeToolTip": "Tasks.Tests\\HybridFlowProcessorTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T08:38:06.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HybridFlowProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\HybridFlowProcessor.cs",
-              "RelativeDocumentMoniker": "Tasks\\HybridFlowProcessor.cs",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\HybridFlowProcessor.cs",
-              "RelativeToolTip": "Tasks\\HybridFlowProcessor.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T08:37:45.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "IDoublyLinkedList.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\DoNotChange\\IDoublyLinkedList.cs",
               "RelativeDocumentMoniker": "Tasks\\DoNotChange\\IDoublyLinkedList.cs",
@@ -133,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IHybridFlowProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\DoNotChange\\IHybridFlowProcessor.cs",
               "RelativeDocumentMoniker": "Tasks\\DoNotChange\\IHybridFlowProcessor.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\DataStructures\\Tasks\\DoNotChange\\IHybridFlowProcessor.cs",
               "RelativeToolTip": "Tasks\\DoNotChange\\IHybridFlowProcessor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T08:37:39.724Z",
               "EditorCaption": ""
